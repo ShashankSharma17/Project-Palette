@@ -2,6 +2,10 @@
   "name": "project-colors",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "12.8.0",
+    "npm": "6.10.2"
+  },
   "dependencies": {
     "@material-ui/core": "^4.4.1",
     "@material-ui/icons": "^4.4.1",
